@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+		<title>Ausrine Rakauskaite</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	</head>
+
+	<body>
+		<header id="header">
+			<h1>Ausrine Ra</h1>
+			<hr>Chichester, United Kingdom
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:Ausrinekaite@gmail.com">ausrinekaite@gmail.com</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-github" aria-hidden="true"></i>
+                        <a href="https://github.com/Aushri">gh-Aushri</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                        <a href="https://www.linkedin.com/in/ausrine-rakauskaite-31992023b/">linkedin-ausrine-rakauskaite</a>
+                    </p>
+				</section>
+				<section>
+					<h2>SKILLS</h2>
+                    <p>Leadership, Management, Customer service, Lithuanian Language</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+					Foundation Diploma in Art and Design, Kingston College September 2017 - July 2018.
+                    A-AS Level Diploma, AQA, Rivers Academy West London September 2015 - July 2017
+                    GCSE Diploma, EDEXCEL & AQA, Rivers Academy West London September 2014 - July 2015
+GCSE Diploma, EDEXCEL, Rivers Academy West London September 2013 - July 2014
+                   
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>Personal Summary</h2>
+					<!-- about you -->
+					<p>A Clearance Broker with 4 years of experience in Imports, working from home and office based environment. Well-versed in customer service, training, and sales</p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<!-- your work experience -->
+                    <h3>Clearance Broker</h3>
+                    <p>
+                            Fedex | 2018-current
+                    </p>
+                    <p>
+                    <li>Supported the training and development of new employees through the company’s 
+                        induction programme over a 6-12-month period.</li>
+                    <li>Created and adapted learning materials.</li>
+                    <li>Evaluated on current operations procedures, working with Fedex stations across the UK and 
+                    implementing training on new process. </li>
+                    <li>Managed Inbound and Outbound customs regulatory truck movements for UK, IE and 
+                    Channel Islands.</li>   
+                    <li>Efficiently completed Imports procedures.</li>
+                    <li>Actively pursued personal learning and development opportunities using the company’s 
+                    education systems.</li>
+                    </p>
+                    <ul>
+                        <h3>Awards</h3>
+                            <li>BRAVO ZULU, FedEx 2022</li>
+                            <li>Floating Garden Design, Bam Nuttall 2016</li>
+                            <li>Computer game design, Bossa studio 2016</li>
+                    </ul>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
